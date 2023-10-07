@@ -3,6 +3,7 @@
 - 🛠 Skills: Manual Testing, Test Case, API testing, Postman, Performance testing with Jmeter, Jira
 - 🌱 I’m currently learning Web Automation with Selenium
 - 👩‍💻 [Linkedin Profile](https://www.linkedin.com/in/fatema-jannet-57271b283/){:target="_blank" rel="noopener"}
+- <a href="(https://www.linkedin.com/in/fatema-jannet-57271b283/" target="_blank">Linkedin</a>
 - 📫 How to reach me: tinujannet@gmail.com
 
 <!---
