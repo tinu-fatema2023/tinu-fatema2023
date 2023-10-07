@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tinu-fatema2023
 - 👀 I’m interested to work as Software Quality Assurance Engineer
+- 🛠 Skills: Manual Testing|| API testing|| Postman|| Performance testing with Jmeter|| Jira
 - 🌱 I’m currently learning Web Automation with Selenium
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fatema-jannet-57271b283)
+- 👩‍💻 [![My Linkedin Profile]](www.linkedin.com/in/fatema-jannet-57271b283)
 - 📫 How to reach me: tinujannet@gmail.com
 
 <!---
