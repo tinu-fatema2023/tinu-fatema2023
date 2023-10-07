@@ -2,7 +2,7 @@
 - 👀 I’m interested to work as Software Quality Assurance Engineer
 - 🛠 Skills: Manual Testing, Test Case, API testing, Postman, Performance testing with Jmeter, Jira
 - 🌱 I’m currently learning Web Automation with Selenium
-- 👩‍💻 [My Linkedin Profile](www.linkedin.com/in/fatema-jannet-57271b283)
+- 👩‍💻 [My Linkedin Profile](https://github.com/tinu-fatema2023)
 - 📫 How to reach me: tinujannet@gmail.com
 
 <!---
